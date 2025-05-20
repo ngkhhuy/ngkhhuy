@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Khanh Huy</h1>
-<h3 align="center">Passionate about building backend systems from Viet Nam</h3>
+<h3 align="center">Passionate about building backend systems using JavaScript</h3>
 
 - 👨‍💻 All of my projects are available at [khanhhuy.space](khanhhuy.space)
 
