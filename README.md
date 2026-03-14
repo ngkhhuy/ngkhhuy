@@ -6,7 +6,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 * 🌍  I'm based in Viet Nam
 * 🖥️  See my portfolio at [khanhhuy.space](http://khanhhuy.space)
-* ✉️  You can contact me at [ngkhhuy2004@gmail.com](mailto:ngkhhuy2004@gmail.com)
+* ✉️  You can contact me at [huynguyen.career@gmail.com](mailto:ngkhhuy2004@gmail.com)
 * 🧠  I'm learning NextJS
 
 ### Skills
