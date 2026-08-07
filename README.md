@@ -1,6 +1,6 @@
 # Hi 👋, I'm Huy
 
-### Full-stack Developer | Node.js · React · TypeScript | AI & Backend
+### Full-stack Developer · AI Enthusiast · Builder
 
 I'm an **Information Technology graduate from Da Nang University of Science and Technology**, with hands-on experience building web applications, backend systems, AI-powered solutions, and real-world business software.
 
