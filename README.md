@@ -82,39 +82,6 @@ A system for managing, issuing and verifying academic certificates using blockch
 
 **Stack:** `React` `Node.js` `MongoDB` `Solidity` `Ethers.js` `Ethereum`
 
----
-
-### ✈️ Travel Companion Platform
-
-A product concept focused on helping people discover travel destinations and find suitable travel companions.
-
-Inspired by modern social platforms with a **swipe-first experience**.
-
-**Stack:** `React` `Node.js` `MongoDB` `REST API`
-
----
-
-## 💼 Experience
-
-### Full-stack Developer — AntBuddy
-
-Worked on the development of a **CRM system**, contributing to both frontend and backend functionality.
-
-* Developed and maintained CRM features
-* Built and integrated REST APIs
-* Worked with databases and backend services
-* Participated in developing real-world business software
-
----
-
-## 📊 GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
 
 ## 🎯 Currently
 
