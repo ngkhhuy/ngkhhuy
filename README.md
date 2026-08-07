@@ -106,13 +106,16 @@ A system for managing, issuing and verifying academic certificates using blockch
 ## 📫 Connect With Me
 
 <p align="left">
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="mailto:huynguyen.career@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://t.me/ngkhhuy">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="tel:+84942483893">
+    <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=phone&logoColor=white" />
+  </a>
+  <a href="https://github.com/ngkhhuy">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-</p>
-
----
-
-<p align="center">
-  <i>"Build things. Learn continuously. Keep moving."</i>
 </p>
